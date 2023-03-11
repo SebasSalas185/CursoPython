@@ -1,5 +1,4 @@
-#Cuando queremos concatenar un int, se convierte a string con el comando str()
-#Un int nunca podra concatenarse con un string si no se hace esa conversion
+#Estos son los diferentes operadores aritmeticos que se pueden usar en Python
 
 #Funcion print para imprimir texto en pantalla
 print("Suma:")

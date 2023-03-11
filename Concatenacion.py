@@ -1,3 +1,5 @@
+#Concatenar solo sirve para cadenas de texto
+
 #Variable msj guarda el texto solicitado
 msj = "Hola"
 #Variable esp guarda el texto solicitado

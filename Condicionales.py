@@ -1,15 +1,5 @@
-"""
-Asi se hace una condicional con el comando if en Python
+#Funcion If, actua como una condicional de una cadena de funcional
 
-Declaramos las variables que queremos usar
-num1 = 5
-
-Con el comando if colocamos los parametros
-if num1 == 5:
-
-	Ejecutamos las instrucciones
-	print("El numero es 5")
-"""
 #Funcion print para imprimir texto
 print("Sistema para calificar promedio")
 #Variable para guardar entrada de datos del usuario

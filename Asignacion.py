@@ -1,6 +1,8 @@
-#Variable Mensaje guarda texto
+#Funcion de asignacion en una variable "+="
+
+#Variable "mensaje" guarda una cadena
 mensaje = "Hola"
-#Variable almacena mas texto con el los signos de += 
+#Variable agrega mas cadena  
 mensaje += " Sebas"
-#Funcion print que muestra en pantalla lo almacenado en variable mensaje
+
 print(mensaje)

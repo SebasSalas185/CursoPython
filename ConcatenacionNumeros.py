@@ -1,3 +1,5 @@
+#En caso de concatenar enteros, hay que hacer la conversion de int a string con el comando str()
+
 #La variable num1 guarda un numero solicitado
 num1 = 4
 #La variable num2 guarda un numero solicitado

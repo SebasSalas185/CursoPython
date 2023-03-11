@@ -1,6 +1,5 @@
 ##El metodo count solo tiene en cuenta los caracteres en su argumento para hacer busquedas
-"""Estos argumnentos son la cadena de caracteres que se quiere buscar mas dos numeros 
-para su posicion de busqueda"""
+#Estos argumentos las dos coordenadas que representan su posicion en la cadenas
 
 element = "pluton ya no es un planeta"
 elmnum = 0

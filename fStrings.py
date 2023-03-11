@@ -1,3 +1,4 @@
+#Fstring es una manera mas facil para poder escribir en un print una cadena que contiene variables
 nombre= "Carlos"
 edad = 22
 estatura = 1.8

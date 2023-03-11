@@ -1,4 +1,5 @@
-#Funcion print para imprimir texto
+#Operador multiplicador, representado con un "*"
+
 print("Esto es una multiplicacion:")
 #Variables que almacenas numeros enteros
 num1 = 5
