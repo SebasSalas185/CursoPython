@@ -1,3 +1,10 @@
+#La palabra reservada mal escrita no se considera reservada
+prinT = 5
+Print = 6
+res = prinT + Print
+
+print(res)
+
 """
 Las palabra reservadas en Python son:
 - and
@@ -29,8 +36,3 @@ Las palabra reservadas en Python son:
 - in
 - print
 """
-prinT = 5
-Print = 6
-res = prinT + Print
-
-print(res)

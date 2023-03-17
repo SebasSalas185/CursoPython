@@ -16,7 +16,6 @@ else :
 	Ejecutamos la(s) instruccion(es) para este caso
 	print("El numero no es 5")
 
-
 """
 
 #Funcion print para imprimir texto
@@ -33,14 +32,6 @@ note3 = int(input(name + ", Cual es tu calificacion en biologia?: "))
 res = note1 + note2 + note3
 #Variable prom que guarda la division de res entre 3
 prom = res / 3
-
-"""
-Metodo erroneo mediante el desarrollo
-
-Intento formulado con extraccion de cadena y conversion de float a string
-sprom = str(prom)
-eprom = sprom[0:3]
-"""
 
 #Comando If que realiza una comparacion con el numero 7 
 #Caso para verificar que prom sea mayor o igual a 7 

@@ -1,6 +1,5 @@
-"""El formato correcto de las palabras en Python seria su primera 
-   letra en mayuscula, y el resto en minusculas. 	
-"""
+#El formato correcto de las palabras en Python seria su primera  letra en mayuscula, y el resto en minusculas.
+
 frase = input("Cual es tu nombre: ")
 
 #Metodo .istile (para comprobar si tiene formato correcto)

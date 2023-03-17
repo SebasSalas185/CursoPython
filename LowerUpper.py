@@ -1,7 +1,5 @@
 #Metodos para comprobar y convertir palabras de un texto en minusculas o mayusculas en su totalidad 
-
 frase = input("Cual es tu nombre: ")
-
 
 #Metodo .islower (para comprobar si tiene formato minuscula)
 if frase.islower() == False:
@@ -10,7 +8,6 @@ if frase.islower() == False:
 	print(f"Tu nombre con todo en minusculas seria, {frase.lower()} \n")
 else:
 	print("Tu nombre ya contiene todo en minusculas " +frase.lower()+ "\n" )
-
 
 #Metodo .isupper (para comprobar si tiene formato mayuscula)
 if frase.isupper() == False:

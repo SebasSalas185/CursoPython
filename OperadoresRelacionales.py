@@ -7,7 +7,6 @@ Tipos de operadores condicionales:
 <=	Menor o igual
 >=	Mayor o igual
 """
-
 #Funcion print para imprimir texto en pantalla
 print("Introduce dos numeros a comparar \n")
 
