@@ -1,0 +1,33 @@
+print("Bienvenido al sistema de identificacion")
+
+Nombre = input("Escriba su nombre: ")
+Edad = input("Digite su edad: ")
+Estatura = input("Escriba su estatura: ")
+
+Estudiante = input("Es estudiante? (Si / No): ")
+if Estudiante == "Si":
+    Estudia = True
+elif Estudiante == "No":
+    Estudia = True
+else:
+    Estudia = False
+    
+if Estudia == False:
+    while Estudia == False:
+        print("Opcion invalida, digite Si o No")
+        Estudiante = input("Es estudiante? (Si / No): ")
+        if Estudiante == "Si":
+            Estudia = True
+        elif Estudiante == "No":
+            Estudia = True
+        else:
+            Estudia = False
+
+if Estudiante == "Si":
+    Estudia = True
+else: 
+    Estudia = False
+    
+informacion = [Nombre, Edad, Estatura, Estudia];
+
+print(informacion)
